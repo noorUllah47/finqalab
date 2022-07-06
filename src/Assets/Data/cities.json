@@ -1,0 +1,2829 @@
+[
+  {
+    "id": 1,
+    "value": "BAGH",
+    "label": "Bagh",
+    "Province_code": "07",
+    "City Code": "0001"
+  },
+  {
+    "id": 2,
+    "value": "BHIMBER",
+    "label": "Bhimber",
+    "Province_code": "07",
+    "City Code": "0002"
+  },
+  {
+    "id": 3,
+    "value": "DHUNGI",
+    "label": "Dhungi",
+    "Province_code": "07",
+    "City Code": "0003"
+  },
+  {
+    "id": 4,
+    "value": "KHUIRATTA",
+    "label":"Khuiratta",
+    "Province_code": "07",
+    "City Code": "0004"
+  },
+  {
+    "id": 5,
+    "value": "KOTLI",
+    "label":"Kotli",
+    "Province_code": "07",
+    "City Code": "0005"
+  },
+  {
+    "id": 6,
+    "value": "MANGLA",
+    "label":"Mangla",
+    "Province_code": "07",
+    "City Code": "0006"
+  },
+  {
+    "id": 7,
+    "value": "MIRPUR",
+    "label":"Mirpur",
+    "Province_code": "07",
+    "City Code": "0007"
+  },
+  {
+    "id": 8,
+    "value": "MUZAFFARABAD",
+    "label": "Muzaffarabad",
+    "Province_code": "07",
+    "City Code": "0008"
+  },
+  {
+    "id": 9,
+    "value": "PLANDRI",
+    "label": "PLandri",
+    "Province_code": "07",
+    "City Code": "0009"
+  },
+  {
+    "id": 10,
+    "value": "PUNCH",
+    "label": "Punch",
+    "Province_code": "07",
+    "City Code": "0010"
+  },
+  {
+    "id": 11,
+    "value": "RAWALAKOT",
+    "label": "Rawalakot",
+    "Province_code": "07",
+    "City Code": "0011"
+  },
+  {
+    "id": 12,
+    "value": "AMIR CHAH",
+    "label": "Amir Chah",
+    "Province_code": "05",
+    "City Code": "0012"
+  },
+  {
+    "id": 13,
+    "value": "BAZDAR",
+    "label": "Bazdar",
+    "Province_code": "05",
+    "City Code": "0013"
+  },
+  {
+    "id": 14,
+    "value": "BELA",
+    "label": "Bela",
+    "Province_code": "05",
+    "City Code": "0014"
+  },
+  {
+    "id": 15,
+    "value": "BELLPAT",
+    "label": "Bellpat",
+    "Province_code": "05",
+    "City Code": "0015"
+  },
+  {
+    "id": 16,
+    "value": "BHAG",
+    "label": "Bhag",
+    "Province_code": "05",
+    "City Code": "0016"
+  },
+  {
+    "id": 17,
+    "value": "BURJ",
+    "label": "Burj",
+    "Province_code": "05",
+    "City Code": "0017"
+  },
+  {
+    "id": 18,
+    "value": "CHAGAI",
+    "label": "Chagai",
+    "Province_code": "05",
+    "City Code": "0018"
+  },
+  {
+    "id": 19,
+    "value": "CHAH SANDAN",
+    "label": "Chah Sandan",
+    "Province_code": "05",
+    "City Code": "0019"
+  },
+  {
+    "id": 20,
+    "value": "CHAKKU",
+    "label": "Chakku",
+    "Province_code": "05",
+    "City Code": "0020"
+  },
+  {
+    "id": 21,
+    "value": "CHAMAN",
+    "label": "Chaman",
+    "Province_code": "05",
+    "City Code": "0021"
+  },
+  {
+    "id": 22,
+    "value": "CHHATR",
+    "label": "Chhatr",
+    "Province_code": "05",
+    "City Code": "0022"
+  },
+  {
+    "id": 23,
+    "value": "DALBANDIN",
+    "label": "Dalbandin",
+    "Province_code": "05",
+    "City Code": "0023"
+  },
+  {
+    "id": 24,
+    "value": "DERA BUGTI",
+    "label": "Dera Bugti",
+    "Province_code": "05",
+    "City Code": "0024"
+  },
+  {
+    "id": 25,
+    "value": "DHANA SAR",
+    "label": "Dhana Sar",
+    "Province_code": "05",
+    "City Code": "0025"
+  },
+  {
+    "id": 26,
+    "value": "DIWANA",
+    "label": "Diwana",
+    "Province_code": "05",
+    "City Code": "0026"
+  },
+  {
+    "id": 27,
+    "value": "DUKI",
+    "label": "Duki",
+    "Province_code": "05",
+    "City Code": "0027"
+  },
+  {
+    "id": 28,
+    "value": "DUSHI",
+    "label": "Dushi",
+    "Province_code": "05",
+    "City Code": "0028"
+  },
+  {
+    "id": 29,
+    "value": "DUZAB",
+    "label": "Duzab",
+    "Province_code": "05",
+    "City Code": "0029"
+  },
+  {
+    "id": 30,
+    "value": "GAJAR",
+    "label": "Gajar",
+    "Province_code": "05",
+    "City Code": "0030"
+  },
+  {
+    "id": 31,
+    "value": "GANDAVA",
+    "label": "Gandava",
+    "Province_code": "05",
+    "City Code": "0031"
+  },
+  {
+    "id": 32,
+    "value": "GARHI KHAIRO",
+    "label": "Garhi Khairo",
+    "Province_code": "05",
+    "City Code": "0032"
+  },
+  {
+    "id": 33,
+    "value": "GARRUCK",
+    "label": "Garruck",
+    "Province_code": "05",
+    "City Code": "0033"
+  },
+  {
+    "id": 34,
+    "value": "GHAZLUNA",
+    "label": "Ghazluna",
+    "Province_code": "05",
+    "City Code": "0034"
+  },
+  {
+    "id": 35,
+    "value": "GIRDAN",
+    "label": "Girdan",
+    "Province_code": "05",
+    "City Code": "0035"
+  },
+  {
+    "id": 36,
+    "value": "GULISTAN",
+    "label": "Gulistan",
+    "Province_code": "05",
+    "City Code": "0036"
+  },
+  {
+    "id": 37,
+    "value": "GWADAR",
+    "label": "Gwadar",
+    "Province_code": "05",
+    "City Code": "0037"
+  },
+  {
+    "id": 38,
+    "value": "GWASH",
+    "label": "Gwash",
+    "Province_code": "05",
+    "City Code": "0038"
+  },
+  {
+    "id": 39,
+    "value": "HAB CHAUKI",
+    "label": "Hab Chauki",
+    "Province_code": "05",
+    "City Code": "0039"
+  },
+  {
+    "id": 40,
+    "value": "HAMEEDABAD",
+    "label": "Hameedabad",
+    "Province_code": "05",
+    "City Code": "0040"
+  },
+  {
+    "id": 41,
+    "value": "HARNAI",
+    "label": "Harnai",
+    "Province_code": "05",
+    "City Code": "0041"
+  },
+  {
+    "id": 42,
+    "value": "HINGLAJ",
+    "label": "Hinglaj",
+    "Province_code": "05",
+    "City Code": "0042"
+  },
+  {
+    "id": 43,
+    "value": "HOSHAB",
+    "label": "Hoshab",
+    "Province_code": "05",
+    "City Code": "0043"
+  },
+  {
+    "id": 44,
+    "value": "HUB",
+    "label": "Hub",
+    "Province_code": "05",
+    "City Code": "0044"
+  },
+  {
+    "id": 45,
+    "value": "ISPIKAN",
+    "label": "Ispikan",
+    "Province_code": "05",
+    "City Code": "0045"
+  },
+  {
+    "id": 46,
+    "value": "JAFFERABAD",
+    "label": "Hafferabad",
+    "Province_code": "05",
+    "City Code": "0046"
+  },
+  {
+    "id": 47,
+    "value": "JHAL",
+    "label": "Jhal",
+    "Province_code": "05",
+    "City Code": "0047"
+  },
+  {
+    "id": 48,
+    "value": "JHAL JHAO",
+    "label": "Jhal Jhao",
+    "Province_code": "05",
+    "City Code": "0048"
+  },
+  {
+    "id": 49,
+    "value": "JHAL MAGSI",
+    "label": "Jhal Magsi",
+    "Province_code": "05",
+    "City Code": "0049"
+  },
+  {
+    "id": 50,
+    "value": "JHATPAT",
+    "label": "Jhatpat",
+    "Province_code": "05",
+    "City Code": "0050"
+  },
+  {
+    "id": 51,
+    "value": "JIWANI",
+    "label": "Jiwani",
+    "Province_code": "05",
+    "City Code": "0051"
+  },
+  {
+    "id": 52,
+    "value": "KALANDI",
+    "label": "Kalandi",
+    "Province_code": "05",
+    "City Code": "0052"
+  },
+  {
+    "id": 53,
+    "value": "KALAT",
+    "label": "Kalat",
+    "Province_code": "05",
+    "City Code": "0053"
+  },
+  {
+    "id": 54,
+    "value": "KAMARAROD",
+    "label": "Kamararod",
+    "Province_code": "05",
+    "City Code": "0054"
+  },
+  {
+    "id": 55,
+    "value": "KANAK",
+    "label": "Kanak",
+    "Province_code": "05",
+    "City Code": "0055"
+  },
+  {
+    "id": 56,
+    "value": "KANDI",
+    "label": "Kandi",
+    "Province_code": "05",
+    "City Code": "0056"
+  },
+  {
+    "id": 57,
+    "value": "KANPUR",
+    "label": "Kanpur",
+    "Province_code": "05",
+    "City Code": "0057"
+  },
+  {
+    "id": 58,
+    "value": "KAPIP",
+    "label": "Kapip",
+    "Province_code": "05",
+    "City Code": "0058"
+  },
+  {
+    "id": 59,
+    "value": "KAPPAR",
+    "label": "Kappar",
+    "Province_code": "05",
+    "City Code": "0059"
+  },
+  {
+    "id": 60,
+    "value": "KARODI",
+    "label": "Karodi",
+    "Province_code": "05",
+    "City Code": "0060"
+  },
+  {
+    "id": 61,
+    "value": "KATURI",
+    "label": "Katuri",
+    "Province_code": "05",
+    "City Code": "0061"
+  },
+  {
+    "id": 62,
+    "value": "KHARAN",
+    "label": "Kharan",
+    "Province_code": "05",
+    "City Code": "0062"
+  },
+  {
+    "id": 63,
+    "value": "KHUZDAR",
+    "label": "Khuzdar",
+    "Province_code": "05",
+    "City Code": "0063"
+  },
+  {
+    "id": 64,
+    "value": "KIKKI",
+    "label": "Kikki",
+    "Province_code": "05",
+    "City Code": "0064"
+  },
+  {
+    "id": 65,
+    "value": "KOHAN",
+    "label": "Kohan",
+    "Province_code": "05",
+    "City Code": "0065"
+  },
+  {
+    "id": 66,
+    "value": "KOHLU",
+    "label": "Kohlu",
+    "Province_code": "05",
+    "City Code": "0066"
+  },
+  {
+    "id": 67,
+    "value": "KORAK",
+    "label": "Korak",
+    "Province_code": "05",
+    "City Code": "0067"
+  },
+  {
+    "id": 68,
+    "value": "LAHRI",
+    "label": "Lahri",
+    "Province_code": "05",
+    "City Code": "0068"
+  },
+  {
+    "id": 69,
+    "value": "LASBELA",
+    "label": "Lasbela",
+    "Province_code": "05",
+    "City Code": "0069"
+  },
+  {
+    "id": 70,
+    "value": "LIARI",
+    "label": "Liari",
+    "Province_code": "05",
+    "City Code": "0070"
+  },
+  {
+    "id": 71,
+    "value": "LORALAI",
+    "label": "Loralai",
+    "Province_code": "05",
+    "City Code": "0071"
+  },
+  {
+    "id": 72,
+    "value": "MACH",
+    "label": "Mach",
+    "Province_code": "05",
+    "City Code": "0072"
+  },
+  {
+    "id": 73,
+    "value": "MAND",
+    "label": "Mand",
+    "Province_code": "05",
+    "City Code": "0073"
+  },
+  {
+    "id": 74,
+    "value": "MANGUCHAR",
+    "label": "Manguchar",
+    "Province_code": "05",
+    "City Code": "0074"
+  },
+  {
+    "id": 75,
+    "value": "MASHKI CHAH",
+    "label": "Mashki Chah",
+    "Province_code": "05",
+    "City Code": "0075"
+  },
+  {
+    "id": 76,
+    "value": "MASLTI",
+    "label": "Maslti",
+    "Province_code": "05",
+    "City Code": "0076"
+  },
+  {
+    "id": 77,
+    "value": "MASTUNG",
+    "label": "Mastung",
+    "Province_code": "05",
+    "City Code": "0077"
+  },
+  {
+    "id": 78,
+    "value": "MEKHTAR",
+    "label": "Mekhtar",
+    "Province_code": "05",
+    "City Code": "0078"
+  },
+  {
+    "id": 79,
+    "value": "MERUI",
+    "label": "Merui",
+    "Province_code": "05",
+    "City Code": "0079"
+  },
+  {
+    "id": 80,
+    "value": "MIANEZ",
+    "label": "Mianez",
+    "Province_code": "05",
+    "City Code": "0080"
+  },
+  {
+    "id": 81,
+    "value": "MURGHA KIBZAI",
+    "label": "Murgha Kibzai",
+    "Province_code": "05",
+    "City Code": "0081"
+  },
+  {
+    "id": 82,
+    "value": "MUSA KHEL BAZAR",
+    "label": "Musa Khel Bazar",
+    "Province_code": "05",
+    "City Code": "0082"
+  },
+  {
+    "id": 83,
+    "value": "NAGHA KALAT",
+    "label": "Nagha Kalat",
+    "Province_code": "05",
+    "City Code": "0083"
+  },
+  {
+    "id": 84,
+    "value": "NAL",
+    "label": "Nal",
+    "Province_code": "05",
+    "City Code": "0084"
+  },
+  {
+    "id": 85,
+    "value": "NASEERABAD",
+    "label": "Naseerabad",
+    "Province_code": "05",
+    "City Code": "0085"
+  },
+  {
+    "id": 86,
+    "value": "NAUROZ KALAT",
+    "label": "Nauroz Kalat",
+    "Province_code": "05",
+    "City Code": "0086"
+  },
+  {
+    "id": 87,
+    "value": "NUR GAMMA",
+    "label": "Nur Gamma",
+    "Province_code": "05",
+    "City Code": "0087"
+  },
+  {
+    "id": 88,
+    "value": "NUSHKI",
+    "label": "Nushki",
+    "Province_code": "05",
+    "City Code": "0088"
+  },
+  {
+    "id": 89,
+    "value": "NUTTAL",
+    "label": "Nuttal",
+    "Province_code": "05",
+    "City Code": "0089"
+  },
+  {
+    "id": 90,
+    "value": "ORMARA",
+    "label": "Ormara",
+    "Province_code": "05",
+    "City Code": "0090"
+  },
+  {
+    "id": 91,
+    "value": "PALANTUK",
+    "label": "Palantuk",
+    "Province_code": "05",
+    "City Code": "0091"
+  },
+  {
+    "id": 92,
+    "value": "PANJGUR",
+    "label": "Panjgur",
+    "Province_code": "05",
+    "City Code": "0092"
+  },
+  {
+    "id": 93,
+    "value": "PASNI",
+    "label": "Pasni",
+    "Province_code": "05",
+    "City Code": "0093"
+  },
+  {
+    "id": 94,
+    "value": "PIHARAK",
+    "label": "Piharak",
+    "Province_code": "05",
+    "City Code": "0094"
+  },
+  {
+    "id": 95,
+    "value": "PISHIN",
+    "label": "Pishin",
+    "Province_code": "05",
+    "City Code": "0095"
+  },
+  {
+    "id": 96,
+    "value": "QAMRUDDIN KAREZ",
+    "label": "Qamruddin Karez",
+    "Province_code": "05",
+    "City Code": "0096"
+  },
+  {
+    "id": 97,
+    "value": "QILA ABDULLAH",
+    "label": "Qila Abdullah",
+    "Province_code": "05",
+    "City Code": "0097"
+  },
+  {
+    "id": 98,
+    "value": "QILA LADGASHT",
+    "label": "Qila Ladgasht",
+    "Province_code": "05",
+    "City Code": "0098"
+  },
+  {
+    "id": 99,
+    "value": "QILA SAFED",
+    "label": "Qila Safed",
+    "Province_code": "05",
+    "City Code": "0099"
+  },
+  {
+    "id": 100,
+    "value": "QILA SAIFULLAH",
+    "label": "Qila Saifullah",
+    "Province_code": "05",
+    "City Code": "0100"
+  },
+  {
+    "id": 101,
+    "value": "QUETTA",
+    "label": "Quetta",
+    "Province_code": "05",
+    "City Code": "0101"
+  },
+  {
+    "id": 102,
+    "value": "RAKHNI",
+    "label": "Rakhni",
+    "Province_code": "05",
+    "City Code": "0102"
+  },
+  {
+    "id": 103,
+    "value": "ROBAT THANA",
+    "label": "Robat Thana",
+    "Province_code": "05",
+    "City Code": "0103"
+  },
+  {
+    "id": 104,
+    "value": "RODKHAN",
+    "label": "Rodkhan",
+    "Province_code": "05",
+    "City Code": "0104"
+  },
+  {
+    "id": 105,
+    "value": "SAINDAK",
+    "label": "Saindak",
+    "Province_code": "05",
+    "City Code": "0105"
+  },
+  {
+    "id": 106,
+    "value": "SANJAWI",
+    "label": "Sanjawi",
+    "Province_code": "05",
+    "City Code": "0106"
+  },
+  {
+    "id": 107,
+    "value": "SARUNA",
+    "label": "Saruna",
+    "Province_code": "05",
+    "City Code": "0107"
+  },
+  {
+    "id": 108,
+    "value": "SHABAZ KALAT",
+    "label": "Shaba Kalat",
+    "Province_code": "05",
+    "City Code": "0108"
+  },
+  {
+    "id": 109,
+    "value": "SHAHPUR",
+    "label": "Shahpur",
+    "Province_code": "05",
+    "City Code": "0109"
+  },
+  {
+    "id": 110,
+    "value": "SHARAM JOGIZAI",
+    "label": "Sharam Jogizai",
+    "Province_code": "05",
+    "City Code": "0110"
+  },
+  {
+    "id": 111,
+    "value": "SHINGAR",
+    "label": "Shingar",
+    "Province_code": "05",
+    "City Code": "0111"
+  },
+  {
+    "id": 112,
+    "value": "SHORAP",
+    "label": "Shorap",
+    "Province_code": "05",
+    "City Code": "0112"
+  },
+  {
+    "id": 113,
+    "value": "SIBI",
+    "label": "Sibi",
+    "Province_code": "05",
+    "City Code": "0113"
+  },
+  {
+    "id": 114,
+    "value": "SONMIANI",
+    "label": "Sonmiani",
+    "Province_code": "05",
+    "City Code": "0114"
+  },
+  {
+    "id": 115,
+    "value": "SPEZAND",
+    "label": "Spezand",
+    "Province_code": "05",
+    "City Code": "0115"
+  },
+  {
+    "id": 116,
+    "value": "SPINTANGI",
+    "label": "Spintangi",
+    "Province_code": "05",
+    "City Code": "0116"
+  },
+  {
+    "id": 117,
+    "value": "SUI",
+    "label": "Sui",
+    "Province_code": "05",
+    "City Code": "0117"
+  },
+  {
+    "id": 118,
+    "value": "SUNTSAR",
+    "label": "Suntsar",
+    "Province_code": "05",
+    "City Code": "0118"
+  },
+  {
+    "id": 119,
+    "value": "SURAB",
+    "label": "Surab",
+    "Province_code": "05",
+    "City Code": "0119"
+  },
+  {
+    "id": 120,
+    "value": "THALO",
+    "label": "Thalo",
+    "Province_code": "05",
+    "City Code": "0120"
+  },
+  {
+    "id": 121,
+    "value": "TUMP",
+    "label": "Tump",
+    "Province_code": "05",
+    "City Code": "0121"
+  },
+  {
+    "id": 122,
+    "value": "TURBAT",
+    "label": "Turbat",
+    "Province_code": "05",
+    "City Code": "0122"
+  },
+  {
+    "id": 123,
+    "value": "UMARAO",
+    "label": "Umarao",
+    "Province_code": "05",
+    "City Code": "0123"
+  },
+  {
+    "id": 124,
+    "value": "UTHAL",
+    "label": "Uthal",
+    "Province_code": "05",
+    "City Code": "0124"
+  },
+  {
+    "id": 125,
+    "value": "VITAKRI",
+    "label": "Vitakri",
+    "Province_code": "05",
+    "City Code": "0125"
+  },
+  {
+    "id": 126,
+    "value": "WADH",
+    "label": "Wadh",
+    "Province_code": "05",
+    "City Code": "0126"
+  },
+  {
+    "id": 127,
+    "value": "WASHAP",
+    "label": "Washap",
+    "Province_code": "05",
+    "City Code": "0127"
+  },
+  {
+    "id": 128,
+    "value": "WASJUK",
+    "label": "Wasjuk",
+    "Province_code": "05",
+    "City Code": "0128"
+  },
+  {
+    "id": 129,
+    "value": "YAKMACH",
+    "label": "Yakmach",
+    "Province_code": "05",
+    "City Code": "0129"
+  },
+  {
+    "id": 130,
+    "value": "ZHOB",
+    "label": "Zhob",
+    "Province_code": "05",
+    "City Code": "0130"
+  },
+  {
+    "id": 131,
+    "value": "ZIARAT",
+    "label": "Ziarat",
+    "Province_code": "05",
+    "City Code": "0131"
+  },
+  {
+    "id": 132,
+    "value": "ISLAMABAD",
+    "label": "Islamabad",
+    "Province_code": "06",
+    "City Code": "0132"
+  },
+  {
+    "id": 133,
+    "value": "ABBOTTABAD",
+    "label": "Abbotabad",
+    "Province_code": "04",
+    "City Code": "0133"
+  },
+  {
+    "id": 134,
+    "value": "ADEZAI",
+    "label": "Adezai",
+    "Province_code": "04",
+    "City Code": "0134"
+  },
+  {
+    "id": 135,
+    "value": "AYUBIA",
+    "label": "Ayubia",
+    "Province_code": "04",
+    "City Code": "0135"
+  },
+  {
+    "id": 136,
+    "value": "BANDA DAUD SHAH",
+    "label": "Banda Daud Shah",
+    "Province_code": "04",
+    "City Code": "0136"
+  },
+  {
+    "id": 137,
+    "value": "BANNU",
+    "label": "Bannu",
+    "Province_code": "04",
+    "City Code": "0137"
+  },
+  {
+    "id": 138,
+    "value": "BATAGRAM",
+    "label": "Batgram",
+    "Province_code": "04",
+    "City Code": "0138"
+  },
+  {
+    "id": 139,
+    "value": "BIROTE",
+    "label": "Birote",
+    "Province_code": "04",
+    "City Code": "0139"
+  },
+  {
+    "id": 140,
+    "value": "BUNER",
+    "label": "Buner",
+    "Province_code": "04",
+    "City Code": "0140"
+  },
+  {
+    "id": 141,
+    "value": "CHAKDARA",
+    "label": "Chakdara",
+    "Province_code": "04",
+    "City Code": "0141"
+  },
+  {
+    "id": 142,
+    "value": "CHARSADDA",
+    "label": "Charsadda",
+    "Province_code": "04",
+    "City Code": "0142"
+  },
+  {
+    "id": 143,
+    "value": "CHITRAL",
+    "label": "Chitral",
+    "Province_code": "04",
+    "City Code": "0143"
+  },
+  {
+    "id": 144,
+    "value": "DARGAI",
+    "label": "Dargai",
+    "Province_code": "04",
+    "City Code": "0144"
+  },
+  {
+    "id": 145,
+    "value": "DARYA KHAN",
+    "label": "Darya Khan",
+    "Province_code": "04",
+    "City Code": "0145"
+  },
+  {
+    "id": 146,
+    "value": "DERA ISMAIL KHAN",
+    "label": "Dera Ismail Khan",
+    "Province_code": "04",
+    "City Code": "0146"
+  },
+  {
+    "id": 147,
+    "value": "DRASAN",
+    "label": "Drasan",
+    "Province_code": "04",
+    "City Code": "0147"
+  },
+  {
+    "id": 148,
+    "value": "DROSH",
+    "label": "Drosh",
+    "Province_code": "04",
+    "City Code": "0148"
+  },
+  {
+    "id": 149,
+    "value": "HANGU",
+    "label": "Hangu",
+    "Province_code": "04",
+    "City Code": "0149"
+  },
+  {
+    "id": 150,
+    "value": "HARIPUR",
+    "label": "Haripur",
+    "Province_code": "04",
+    "City Code": "0150"
+  },
+  {
+    "id": 151,
+    "value": "KALAM",
+    "label": "Kalan",
+    "Province_code": "04",
+    "City Code": "0151"
+  },
+  {
+    "id": 152,
+    "value": "KARAK",
+    "label": "Karak",
+    "Province_code": "04",
+    "City Code": "0152"
+  },
+  {
+    "id": 153,
+    "value": "KHANASPUR",
+    "label": "Khanaspur",
+    "Province_code": "04",
+    "City Code": "0153"
+  },
+  {
+    "id": 154,
+    "value": "KOHAT",
+    "label": "Kohat",
+    "Province_code": "04",
+    "City Code": "0154"
+  },
+  {
+    "id": 155,
+    "value": "KOHISTAN",
+    "label": "Kohistan",
+    "Province_code": "04",
+    "City Code": "0155"
+  },
+  {
+    "id": 156,
+    "value": "LAKKI MARWAT",
+    "label": "Lakki Marwat",
+    "Province_code": "04",
+    "City Code": "0156"
+  },
+  {
+    "id": 157,
+    "value": "LATAMBER",
+    "label": "Latamber",
+    "Province_code": "04",
+    "City Code": "0157"
+  },
+  {
+    "id": 158,
+    "value": "LOWER DIR",
+    "label": "Lower Dir",
+    "Province_code": "04",
+    "City Code": "0158"
+  },
+  {
+    "id": 159,
+    "value": "MADYAN",
+    "label": "Madyan",
+    "Province_code": "04",
+    "City Code": "0159"
+  },
+  {
+    "id": 160,
+    "value": "MALAKAND",
+    "label": "Malakand",
+    "Province_code": "04",
+    "City Code": "0160"
+  },
+  {
+    "id": 161,
+    "value": "MANSEHRA",
+    "label": "Mansehra",
+    "Province_code": "04",
+    "City Code": "0161"
+  },
+  {
+    "id": 162,
+    "value": "MARDAN",
+    "label": "Mardan",
+    "Province_code": "04",
+    "City Code": "0162"
+  },
+  {
+    "id": 163,
+    "value": "MASTUJ",
+    "label": "Mastuj",
+    "Province_code": "04",
+    "City Code": "0163"
+  },
+  {
+    "id": 164,
+    "value": "MONGORA",
+    "label": "Mongora",
+    "Province_code": "04",
+    "City Code": "0164"
+  },
+  {
+    "id": 165,
+    "value": "NOWSHERA",
+    "label": "Nowshera",
+    "Province_code": "04",
+    "City Code": "0165"
+  },
+  {
+    "id": 166,
+    "value": "PAHARPUR",
+    "label": "Paharpur",
+    "Province_code": "04",
+    "City Code": "0166"
+  },
+  {
+    "id": 167,
+    "value": "PESHAWAR",
+    "label": "Peshawar",
+    "Province_code": "04",
+    "City Code": "0167"
+  },
+  {
+    "id": 168,
+    "value": "SAIDU SHARIF",
+    "label": "Saidu Sharif",
+    "Province_code": "04",
+    "City Code": "0168"
+  },
+  {
+    "id": 169,
+    "value": "SAKESAR",
+    "label": "Sakesar",
+    "Province_code": "04",
+    "City Code": "0169"
+  },
+  {
+    "id": 170,
+    "value": "SHANGLA",
+    "label": "Shangla",
+    "Province_code": "04",
+    "City Code": "0170"
+  },
+  {
+    "id": 171,
+    "value": "SWABI",
+    "label": "Swabi",
+    "Province_code": "04",
+    "City Code": "0171"
+  },
+  {
+    "id": 172,
+    "value": "SWAT",
+    "label": "Swat",
+    "Province_code": "04",
+    "City Code": "0172"
+  },
+  {
+    "id": 173,
+    "value": "TANGI",
+    "label": "Tangi",
+    "Province_code": "04",
+    "City Code": "0173"
+  },
+  {
+    "id": 174,
+    "value": "TANK",
+    "label": "Tank",
+    "Province_code": "04",
+    "City Code": "0174"
+  },
+  {
+    "id": 175,
+    "value": "THALL",
+    "label": "Thall",
+    "Province_code": "04",
+    "City Code": "0175"
+  },
+  {
+    "id": 176,
+    "value": "TIMARGARA",
+    "label": "Timargara",
+    "Province_code": "04",
+    "City Code": "0176"
+  },
+  {
+    "id": 177,
+    "value": "TORDHER",
+    "label": "Tordher",
+    "Province_code": "04",
+    "City Code": "0177"
+  },
+  {
+    "id": 178,
+    "value": "UPPER DIR",
+    "label": "Upper Dir",
+    "Province_code": "04",
+    "City Code": "0178"
+  },
+  {
+    "id": 179,
+    "value": "ASTOR",
+    "label": "Astor",
+    "Province_code": "01",
+    "City Code": "0179"
+  },
+  {
+    "id": 180,
+    "value": "BAJAUR",
+    "label": "Bajaur",
+    "Province_code": "01",
+    "City Code": "0180"
+  },
+  {
+    "id": 181,
+    "value": "BARAMULA",
+    "label": "Baramula",
+    "Province_code": "01",
+    "City Code": "0181"
+  },
+  {
+    "id": 182,
+    "value": "DIR",
+    "label": "Dir",
+    "Province_code": "01",
+    "City Code": "0182"
+  },
+  {
+    "id": 183,
+    "value": "GILGIT",
+    "label": "Gilgit",
+    "Province_code": "01",
+    "City Code": "0183"
+  },
+  {
+    "id": 184,
+    "value": "HANGU",
+    "label": "Hangu",
+    "Province_code": "01",
+    "City Code": "0184"
+  },
+  {
+    "id": 185,
+    "value": "KHYBER",
+    "label": "Khyber",
+    "Province_code": "01",
+    "City Code": "0185"
+  },
+  {
+    "id": 186,
+    "value": "KURRAM",
+    "label": "Kurram",
+    "Province_code": "01",
+    "City Code": "0186"
+  },
+  {
+    "id": 187,
+    "value": "MALAKAND",
+    "label": "Malakand",
+    "Province_code": "01",
+    "City Code": "0187"
+  },
+  {
+    "id": 188,
+    "value": "MIRAM SHAH",
+    "label": "Miran Shah",
+    "Province_code": "01",
+    "City Code": "0188"
+  },
+  {
+    "id": 189,
+    "value": "MOHMAND",
+    "label": "Mohmand",
+    "Province_code": "01",
+    "City Code": "0189"
+  },
+  {
+    "id": 190,
+    "value": "NAGAR",
+    "label": "Nagar",
+    "Province_code": "01",
+    "City Code": "0190"
+  },
+  {
+    "id": 191,
+    "value": "NORTH WAZIRISTAN",
+    "label": "North Waziristan",
+    "Province_code": "01",
+    "City Code": "0191"
+  },
+  {
+    "id": 192,
+    "value": "PARACHINAR",
+    "label": "Parachinar",
+    "Province_code": "01",
+    "City Code": "0192"
+  },
+  {
+    "id": 193,
+    "value": "PEACOCK",
+    "label": "Peacock",
+    "Province_code": "01",
+    "City Code": "0193"
+  },
+  {
+    "id": 194,
+    "value": "SHANDUR",
+    "label": "Shandur",
+    "Province_code": "01",
+    "City Code": "0194"
+  },
+  {
+    "id": 195,
+    "value": "SHANGRILA",
+    "label": "Shangrila",
+    "Province_code": "01",
+    "City Code": "0195"
+  },
+  {
+    "id": 196,
+    "value": "SKARDU",
+    "label": "Skardu",
+    "Province_code": "01",
+    "City Code": "0196"
+  },
+  {
+    "id": 197,
+    "value": "SOUTH WAZIRISTAN",
+    "label": "South Waziristan",
+    "Province_code": "01",
+    "City Code": "0197"
+  },
+  {
+    "id": 198,
+    "value": "WANA",
+    "label": "Wana",
+    "Province_code": "01",
+    "City Code": "0198"
+  },
+  {
+    "id": 199,
+    "value": "AHMED NAGER CHATHA",
+    "label": "Ahmed Nager Chatha",
+    "Province_code": "03",
+    "City Code": "0199"
+  },
+  {
+    "id": 200,
+    "value": "AHMEDPUR EAST",
+    "label": "Ahmedpur East",
+    "Province_code": "03",
+    "City Code": "0200"
+  },
+  {
+    "id": 201,
+    "value": "ALI PUR",
+    "label": "Ali Pur",
+    "Province_code": "03",
+    "City Code": "0201"
+  },
+  {
+    "id": 202,
+    "value": "ARIFWALA",
+    "label": "Arifwala",
+    "Province_code": "03",
+    "City Code": "0202"
+  },
+  {
+    "id": 203,
+    "value": "ATTOCK",
+    "label": "Attock",
+    "Province_code": "03",
+    "City Code": "0203"
+  },
+  {
+    "id": 204,
+    "value": "BAHAWALNAGAR",
+    "label": "Bahawalnagar",
+    "Province_code": "03",
+    "City Code": "0204"
+  },
+  {
+    "id": 205,
+    "value": "BAHAWALPUR",
+    "label": "Bahawalpur",
+    "Province_code": "03",
+    "City Code": "0205"
+  },
+  {
+    "id": 206,
+    "value": "BASTI MALOOK",
+    "label": "Basti Malook",
+    "Province_code": "03",
+    "City Code": "0206"
+  },
+  {
+    "id": 207,
+    "value": "BHAGALCHUR",
+    "label": "Bhagalchur",
+    "Province_code": "03",
+    "City Code": "0207"
+  },
+  {
+    "id": 208,
+    "value": "BHAIPHERU",
+    "label": "Bhairpheru",
+    "Province_code": "03",
+    "City Code": "0208"
+  },
+  {
+    "id": 209,
+    "value": "BHAKKAR",
+    "label": "Bhakkar",
+    "Province_code": "03",
+    "City Code": "0209"
+  },
+  {
+    "id": 210,
+    "value": "BHALWAL",
+    "label": "Bhalwal",
+    "Province_code": "03",
+    "City Code": "0210"
+  },
+  {
+    "id": 211,
+    "value": "BUREWALA",
+    "label": "Burewala",
+    "Province_code": "03",
+    "City Code": "0211"
+  },
+  {
+    "id": 212,
+    "value": "CHAILIANWALA",
+    "label": "Chailianwala",
+    "Province_code": "03",
+    "City Code": "0212"
+  },
+  {
+    "id": 213,
+    "value": "CHAKWAL",
+    "label": "Chakwal",
+    "Province_code": "03",
+    "City Code": "0213"
+  },
+  {
+    "id": 214,
+    "value": "CHICHAWATNI",
+    "label": "Chichawatni",
+    "Province_code": "03",
+    "City Code": "0214"
+  },
+  {
+    "id": 215,
+    "value": "CHINIOT",
+    "label": "Chiniot",
+    "Province_code": "03",
+    "City Code": "0215"
+  },
+  {
+    "id": 216,
+    "value": "CHOWK AZAM",
+    "label": "Chowk Azam",
+    "Province_code": "03",
+    "City Code": "0216"
+  },
+  {
+    "id": 217,
+    "value": "CHOWK SARWAR SHAHEED",
+    "label": "Chowk Sarwar Shaheed",
+    "Province_code": "03",
+    "City Code": "0217"
+  },
+  {
+    "id": 218,
+    "value": "DARYA KHAN",
+    "label": "Darya Khan",
+    "Province_code": "03",
+    "City Code": "0218"
+  },
+  {
+    "id": 219,
+    "value": "DASKA",
+    "label": "Daska",
+    "Province_code": "03",
+    "City Code": "0219"
+  },
+  {
+    "id": 220,
+    "value": "DERA GHAZI KHAN",
+    "label": "Dera Ghazi Khan",
+    "Province_code": "03",
+    "City Code": "0220"
+  },
+  {
+    "id": 221,
+    "value": "DERAWAR FORT",
+    "label": "Derawar Fort",
+    "Province_code": "03",
+    "City Code": "0221"
+  },
+  {
+    "id": 222,
+    "value": "DHAULAR",
+    "label": "Dhaular",
+    "Province_code": "03",
+    "City Code": "0222"
+  },
+  {
+    "id": 223,
+    "value": "DINA CITY",
+    "label": "Dina City",
+    "Province_code": "03",
+    "City Code": "0223"
+  },
+  {
+    "id": 224,
+    "value": "DINGA",
+    "label": "Dinga",
+    "Province_code": "03",
+    "City Code": "0224"
+  },
+  {
+    "id": 225,
+    "value": "DIPALPUR",
+    "label": "Dipalpur",
+    "Province_code": "03",
+    "City Code": "0225"
+  },
+  {
+    "id": 226,
+    "value": "FAISALABAD",
+    "label": "Faisalabad",
+    "Province_code": "03",
+    "City Code": "0226"
+  },
+  {
+    "id": 227,
+    "value": "FATEH JANG",
+    "label": "Fateh Jang",
+    "Province_code": "03",
+    "City Code": "0227"
+  },
+  {
+    "id": 228,
+    "value": "GADAR",
+    "label": "Gadar",
+    "Province_code": "03",
+    "City Code": "0228"
+  },
+  {
+    "id": 229,
+    "value": "GHAKHAR MANDI",
+    "label": "Ghakhar Mandi",
+    "Province_code": "03",
+    "City Code": "0229"
+  },
+  {
+    "id": 230,
+    "value": "GUJAR KHAN",
+    "label": "Gujar Khan",
+    "Province_code": "03",
+    "City Code": "0230"
+  },
+  {
+    "id": 231,
+    "value": "GUJRANWALA",
+    "label": "Gujranwala",
+    "Province_code": "03",
+    "City Code": "0231"
+  },
+  {
+    "id": 232,
+    "value": "Gujrat",
+    "Province_code": "03",
+    "City Code": "0232"
+  },
+  {
+    "id": 233,
+    "value": "HAFIZABAD",
+    "label": "Hafizabad",
+    "Province_code": "03",
+    "City Code": "0233"
+  },
+  {
+    "id": 234,
+    "value": "HAROONABAD",
+    "label": "Haroonabad",
+    "Province_code": "03",
+    "City Code": "0234"
+  },
+  {
+    "id": 235,
+    "value": "HASILPUR",
+    "label": "Hasilpur",
+    "Province_code": "03",
+    "City Code": "0235"
+  },
+  {
+    "id": 236,
+    "value": "HAVELI LAKHA",
+    "label": "Haveli Lakha",
+    "Province_code": "03",
+    "City Code": "0236"
+  },
+  {
+    "id": 237,
+    "value": "JAHANIA",
+    "label": "Jahania",
+    "Province_code": "03",
+    "City Code": "0237"
+  },
+  {
+    "id": 238,
+    "value": "JALLA ARAAIN",
+    "label": "Jalla Araain",
+    "Province_code": "03",
+    "City Code": "0238"
+  },
+  {
+    "id": 239,
+    "value": "JAMPUR",
+    "label": "Jampur",
+    "Province_code": "03",
+    "City Code": "0239"
+  },
+  {
+    "id": 240,
+    "value": "JAUHARABAD",
+    "label": "Jauharbad",
+    "Province_code": "03",
+    "City Code": "0240"
+  },
+  {
+    "id": 241,
+    "value": "JHANG",
+    "label": "Jhang",
+    "Province_code": "03",
+    "City Code": "0241"
+  },
+  {
+    "id": 242,
+    "value": "JHELUM",
+    "label": "Jhelum",
+    "Province_code": "03",
+    "City Code": "0242"
+  },
+  {
+    "id": 243,
+    "value": "KALABAGH",
+    "label": "Kalabagh",
+    "Province_code": "03",
+    "City Code": "0243"
+  },
+  {
+    "id": 244,
+    "value": "KAMALIA",
+    "label": "Kamalia",
+    "Province_code": "03",
+    "City Code": "0244"
+  },
+  {
+    "id": 245,
+    "value": "KAMOKEY",
+    "label": "Kamokey",
+    "Province_code": "03",
+    "City Code": "0245"
+  },
+  {
+    "id": 246,
+    "value": "KAROR LAL ESAN",
+    "label": "Karor Lal Esan",
+    "Province_code": "03",
+    "City Code": "0246"
+  },
+  {
+    "id": 247,
+    "value": "KASUR",
+    "label": "Kasur",
+    "Province_code": "03",
+    "City Code": "0247"
+  },
+  {
+    "id": 248,
+    "value": "KHANEWAL",
+    "label": "KHanewal",
+    "Province_code": "03",
+    "City Code": "0248"
+  },
+  {
+    "id": 249,
+    "value": "KHANPUR",
+    "label": "Khanpur",
+    "Province_code": "03",
+    "City Code": "0249"
+  },
+  {
+    "id": 250,
+    "value": "KHARIAN",
+    "label": "Kharian",
+    "Province_code": "03",
+    "City Code": "0250"
+  },
+  {
+    "id": 251,
+    "value": "KHUSHAB",
+    "label": "Khushab",
+    "Province_code": "03",
+    "City Code": "0251"
+  },
+  {
+    "id": 252,
+    "value": "KOT ADDU",
+    "label": "Kot Addu",
+    "Province_code": "03",
+    "City Code": "0252"
+  },
+  {
+    "id": 253,
+    "value": "LAAR",
+    "label": "Laar",
+    "Province_code": "03",
+    "City Code": "0253"
+  },
+  {
+    "id": 254,
+    "value": "LAHORE",
+    "label": "Lahore",
+    "Province_code": "03",
+    "City Code": "0254"
+  },
+  {
+    "id": 255,
+    "value": "LALAMUSA",
+    "label": "Lalamusa",
+    "Province_code": "03",
+    "City Code": "0255"
+  },
+  {
+    "id": 256,
+    "value": "LAYYAH",
+    "label": "Layyah",
+    "Province_code": "03",
+    "City Code": "0256"
+  },
+  {
+    "id": 257,
+    "value": "LODHRAN",
+    "label": "LOdhran",
+    "Province_code": "03",
+    "City Code": "0257"
+  },
+  {
+    "id": 258,
+    "value": "MAILSI",
+    "label": "Mailsi",
+    "Province_code": "03",
+    "City Code": "0258"
+  },
+  {
+    "id": 259,
+    "value": "MAKHDOOM AALI",
+    "label": "Makhdoom Aali",
+    "Province_code": "03",
+    "City Code": "0259"
+  },
+  {
+    "id": 260,
+    "value": "MAMOORI",
+    "label": "Mamoori",
+    "Province_code": "03",
+    "City Code": "0260"
+  },
+  {
+    "id": 261,
+    "value": "MANDI BAHAUDDIN",
+    "label": "Mandi Bahauddin",
+    "Province_code": "03",
+    "City Code": "0261"
+  },
+  {
+    "id": 262,
+    "value": "MANDI WARBURTON",
+    "label": "Mandi Warburton",
+    "Province_code": "03",
+    "City Code": "0262"
+  },
+  {
+    "id": 263,
+    "value": "MIAN CHANNU",
+    "label": "Mian Channu",
+    "Province_code": "03",
+    "City Code": "0263"
+  },
+  {
+    "id": 264,
+    "value": "MIANWALI",
+    "label": "Mianwali",
+    "Province_code": "03",
+    "City Code": "0264"
+  },
+  {
+    "id": 265,
+    "value": "MINAWALA",
+    "label": "Minawala",
+    "Province_code": "03",
+    "City Code": "0265"
+  },
+  {
+    "id": 266,
+    "value": "MULTAN",
+    "label": "Multan",
+    "Province_code": "03",
+    "City Code": "0266"
+  },
+  {
+    "id": 267,
+    "value": "MURIDKE",
+    "label": "Muridke",
+    "Province_code": "03",
+    "City Code": "0267"
+  },
+  {
+    "id": 268,
+    "value": "MURREE",
+    "label": "Murree",
+    "Province_code": "03",
+    "City Code": "0268"
+  },
+  {
+    "id": 269,
+    "value": "MUZAFFARGARH",
+    "label": "Muzaffargarh",
+    "Province_code": "03",
+    "City Code": "0269"
+  },
+  {
+    "id": 270,
+    "value": "NAROWAL",
+    "label": "Narowal",
+    "Province_code": "03",
+    "City Code": "0270"
+  },
+  {
+    "id": 271,
+    "value": "OKARA",
+    "label": "Okara",
+    "Province_code": "03",
+    "City Code": "0271"
+  },
+  {
+    "id": 272,
+    "value": "PAK PATTAN",
+    "label": "Pak Pattan",
+    "Province_code": "03",
+    "City Code": "0272"
+  },
+  {
+    "id": 273,
+    "value": "PANJGUR",
+    "label": "Panjgur",
+    "Province_code": "03",
+    "City Code": "0273"
+  },
+  {
+    "id": 274,
+    "value": "PATTOKI",
+    "label": "Pattoki",
+    "Province_code": "03",
+    "City Code": "0274"
+  },
+  {
+    "id": 275,
+    "value": "PIRMAHAL",
+    "label": "Pirmahal",
+    "Province_code": "03",
+    "City Code": "0275"
+  },
+  {
+    "id": 276,
+    "value": "QILA DIDAR SINGH",
+    "label": "Qila Didar Singh",
+    "Province_code": "03",
+    "City Code": "0276"
+  },
+  {
+    "id": 277,
+    "value": "RABWAH",
+    "label": "Rabwah",
+    "Province_code": "03",
+    "City Code": "0277"
+  },
+  {
+    "id": 278,
+    "value": "RAHIM YAR KHAN",
+    "label": "Rahim Yar Khan",
+    "Province_code": "03",
+    "City Code": "0278"
+  },
+  {
+    "id": 279,
+    "value": "RAIWIND",
+    "label": "Raiwind",
+    "Province_code": "03",
+    "City Code": "0279"
+  },
+  {
+    "id": 280,
+    "value": "RAJAN PUR",
+    "label": "Rajan Pur",
+    "Province_code": "03",
+    "City Code": "0280"
+  },
+  {
+    "id": 281,
+    "value": "RAWALPINDI",
+    "label": "Rawalpindi",
+    "Province_code": "03",
+    "City Code": "0281"
+  },
+  {
+    "id": 282,
+    "value": "RENALA KHURD",
+    "label": "Renala Khurd",
+    "Province_code": "03",
+    "City Code": "0282"
+  },
+  {
+    "id": 283,
+    "value": "ROHRI",
+    "label": "Rohri",
+    "Province_code": "03",
+    "City Code": "0283"
+  },
+  {
+    "id": 284,
+    "value": "SADIQABAD",
+    "label": "Sadiqbad",
+    "Province_code": "03",
+    "City Code": "0284"
+  },
+  {
+    "id": 285,
+    "value": "SAFDARABAD-DABANSING",
+    "label": "Safdarabad-Dabansing",
+    "Province_code": "03",
+    "City Code": "0285"
+  },
+  {
+    "id": 286,
+    "value": "SAHIWAL",
+    "label": "Sahiwal",
+    "Province_code": "03",
+    "City Code": "0286"
+  },
+  {
+    "id": 287,
+    "value": "SAMBERIAL",
+    "label": "Samberial",
+    "Province_code": "03",
+    "City Code": "0287"
+  },
+  {
+    "id": 288,
+    "value": "SANGLA HILL",
+    "label": "Sangla Hill",
+    "Province_code": "03",
+    "City Code": "0288"
+  },
+  {
+    "id": 289,
+    "value": "SARAI ALAMGIR",
+    "label": "Sarai Alamgir",
+    "Province_code": "03",
+    "City Code": "0289"
+  },
+  {
+    "id": 290,
+    "value": "SARGODHA",
+    "label": "Sargodha",
+    "Province_code": "03",
+    "City Code": "0290"
+  },
+  {
+    "id": 291,
+    "value": "SHAFQAT SHAHED CHOWK",
+    "label": "Shafqat Shahed Chowk",
+    "Province_code": "03",
+    "City Code": "0291"
+  },
+  {
+    "id": 292,
+    "value": "SHAKARGARH",
+    "label": "Shakargarh",
+    "Province_code": "03",
+    "City Code": "0292"
+  },
+  {
+    "id": 293,
+    "value": "SHARAQPUR",
+    "label": "Sharaqpur",
+    "Province_code": "03",
+    "City Code": "0293"
+  },
+  {
+    "id": 294,
+    "value": "SHEIKHUPURA",
+    "label": "Sheikhupura",
+    "Province_code": "03",
+    "City Code": "0294"
+  },
+  {
+    "id": 295,
+    "value": "SIALKOT",
+    "label": "Sialkot",
+    "Province_code": "03",
+    "City Code": "0295"
+  },
+  {
+    "id": 296,
+    "value": "SOHAWA",
+    "label": "Sohawa",
+    "Province_code": "03",
+    "City Code": "0296"
+  },
+  {
+    "id": 297,
+    "value": "SOOIANWALA",
+    "label": "Sooianwala",
+    "Province_code": "03",
+    "City Code": "0297"
+  },
+  {
+    "id": 298,
+    "value": "SUNDAR",
+    "label": "Sundar",
+    "Province_code": "03",
+    "City Code": "0298"
+  },
+  {
+    "id": 299,
+    "value": "TAKHTBAI",
+    "label": "Takhtbai",
+    "Province_code": "03",
+    "City Code": "0299"
+  },
+  {
+    "id": 300,
+    "value": "TALAGANG",
+    "label": "Talagang",
+    "Province_code": "03",
+    "City Code": "0300"
+  },
+  {
+    "id": 301,
+    "value": "TARBELA",
+    "label": "Tarbela",
+    "Province_code": "03",
+    "City Code": "0301"
+  },
+  {
+    "id": 302,
+    "value": "TAXILA",
+    "label": "Taxila",
+    "Province_code": "03",
+    "City Code": "0302"
+  },
+  {
+    "id": 303,
+    "value": "TOBA TEK SINGH",
+    "label": "Toba Tek Singh",
+    "Province_code": "03",
+    "City Code": "0303"
+  },
+  {
+    "id": 304,
+    "value": "VEHARI",
+    "label": "Vehari",
+    "Province_code": "03",
+    "City Code": "0304"
+  },
+  {
+    "id": 305,
+    "value": "WAH CANTT",
+    "label": "Wah Cantt",
+    "Province_code": "03",
+    "City Code": "0305"
+  },
+  {
+    "id": 306,
+    "value": "WAZIRABAD",
+    "label": "Wazirabad",
+    "Province_code": "03",
+    "City Code": "0306"
+  },
+  {
+    "id": 307,
+    "value": "ALI BANDAR",
+    "label": "Ali Bandar",
+    "Province_code": "02",
+    "City Code": "0307"
+  },
+  {
+    "id": 308,
+    "value": "BADEN",
+    "label": "Baden",
+    "Province_code": "02",
+    "City Code": "0308"
+  },
+  {
+    "id": 309,
+    "value": "CHACHRO",
+    "label": "Chachro",
+    "Province_code": "02",
+    "City Code": "0309"
+  },
+  {
+    "id": 310,
+    "value": "DADU",
+    "label": "Dadu",
+    "Province_code": "02",
+    "City Code": "0310"
+  },
+  {
+    "id": 311,
+    "value": "DAHARKI",
+    "label": "Daharki",
+    "Province_code": "02",
+    "City Code": "0311"
+  },
+  {
+    "id": 312,
+    "value": "DIGRI",
+    "label": "Digri",
+    "Province_code": "02",
+    "City Code": "0312"
+  },
+  {
+    "id": 313,
+    "value": "DIPLO",
+    "label": "Diplo",
+    "Province_code": "02",
+    "City Code": "0313"
+  },
+  {
+    "id": 314,
+    "value": "DOKRI",
+    "label": "Dokri",
+    "Province_code": "02",
+    "City Code": "0314"
+  },
+  {
+    "id": 315,
+    "value": "GADRA",
+    "label": "Gadra",
+    "Province_code": "02",
+    "City Code": "0315"
+  },
+  {
+    "id": 316,
+    "value": "GHANIAN",
+    "label": "Ghanian",
+    "Province_code": "02",
+    "City Code": "0316"
+  },
+  {
+    "id": 317,
+    "value": "GHAUSPUR",
+    "label": "Ghauspur",
+    "Province_code": "02",
+    "City Code": "0317"
+  },
+  {
+    "id": 318,
+    "value": "GHOTKI",
+    "label": "Ghotki",
+    "Province_code": "02",
+    "City Code": "0318"
+  },
+  {
+    "id": 319,
+    "value": "GOTH MACHI",
+    "label": "Goth Machi",
+    "Province_code": "02",
+    "City Code": "0319"
+  },
+  {
+    "id": 320,
+    "value": "HALA (SINDH) HALA",
+    "label": "Hala (Sindh) Hala",
+    "Province_code": "02",
+    "City Code": "0320"
+  },
+  {
+    "id": 321,
+    "value": "HYDERABAD",
+    "label": "Hyderabad",
+    "Province_code": "02",
+    "City Code": "0321"
+  },
+  {
+    "id": 322,
+    "value": "ISLAMKOT",
+    "label": "Islamkot",
+    "Province_code": "02",
+    "City Code": "0322"
+  },
+  {
+    "id": 323,
+    "value": "JACOBABAD",
+    "label": "Jacobabad",
+    "Province_code": "02",
+    "City Code": "0323"
+  },
+  {
+    "id": 324,
+    "value": "JAMESABAD",
+    "label": "Jamesabad",
+    "Province_code": "02",
+    "City Code": "0324"
+  },
+  {
+    "id": 325,
+    "value": "JAMSHORO",
+    "label": "Jamshoro",
+    "Province_code": "02",
+    "City Code": "0325"
+  },
+  {
+    "id": 326,
+    "value": "JANGHAR",
+    "label": "Janghar",
+    "Province_code": "02",
+    "City Code": "0326"
+  },
+  {
+    "id": 327,
+    "value": "JATI",
+    "label": "Jati",
+    "Province_code": "02",
+    "City Code": "0327"
+  },
+  {
+    "id": 328,
+    "value": "JHUDO",
+    "label": "Jhudo",
+    "Province_code": "02",
+    "City Code": "0328"
+  },
+  {
+    "id": 329,
+    "value": "JUNGSHAHI",
+    "label": "Jungshahi",
+    "Province_code": "02",
+    "City Code": "0329"
+  },
+  {
+    "id": 330,
+    "value": "KAMBER",
+    "label": "Kamber",
+    "Province_code": "02",
+    "City Code": "0330"
+  },
+  {
+    "id": 331,
+    "value": "KANDIARO",
+    "label": "Kandiaro",
+    "Province_code": "02",
+    "City Code": "0331"
+  },
+  {
+    "id": 332,
+    "value": "KARACHI",
+    "label": "Karachi",
+    "Province_code": "02",
+    "City Code": "0332"
+  },
+  {
+    "id": 333,
+    "value": "KASHMOR",
+    "label": "Kashmor",
+    "Province_code": "02",
+    "City Code": "0333"
+  },
+  {
+    "id": 334,
+    "value": "KETI BANDAR",
+    "label": "Keti Bandar",
+    "Province_code": "02",
+    "City Code": "0334"
+  },
+  {
+    "id": 335,
+    "value": "KHAIRPUR",
+    "label": "Khairpur",
+    "Province_code": "02",
+    "City Code": "0335"
+  },
+  {
+    "id": 336,
+    "value": "KHOKHROPUR",
+    "label": "Khokhropur",
+    "Province_code": "02",
+    "City Code": "0336"
+  },
+  {
+    "id": 337,
+    "value": "KHORA",
+    "label": "Khora",
+    "Province_code": "02",
+    "City Code": "0337"
+  },
+  {
+    "id": 338,
+    "value": "KLUPRO",
+    "label": "Klupro",
+    "Province_code": "02",
+    "City Code": "0338"
+  },
+  {
+    "id": 339,
+    "value": "KOT SARAE",
+    "label": "Kot Sarae",
+    "Province_code": "02",
+    "City Code": "0339"
+  },
+  {
+    "id": 340,
+    "value": "KOTRI",
+    "label": "Kotir",
+    "Province_code": "02",
+    "City Code": "0340"
+  },
+  {
+    "id": 341,
+    "value": "LARKANA",
+    "label": "Larkana",
+    "Province_code": "02",
+    "City Code": "0341"
+  },
+  {
+    "id": 342,
+    "value": "LUND",
+    "label": "Lund",
+    "Province_code": "02",
+    "City Code": "0342"
+  },
+  {
+    "id": 343,
+    "value": "MATHI",
+    "label": "Mathi",
+    "Province_code": "02",
+    "City Code": "0343"
+  },
+  {
+    "id": 344,
+    "value": "MATIARI",
+    "label": "Matiari",
+    "Province_code": "02",
+    "City Code": "0344"
+  },
+  {
+    "id": 345,
+    "value": "MEHAR",
+    "label": "Mehar",
+    "Province_code": "02",
+    "City Code": "0345"
+  },
+  {
+    "id": 346,
+    "value": "MIRPUR BATORO",
+    "label": "Mirpur Batoro",
+    "Province_code": "02",
+    "City Code": "0346"
+  },
+  {
+    "id": 347,
+    "value": "MIRPUR KHAS",
+    "label": "Mirpur Khas",
+    "Province_code": "02",
+    "City Code": "0347"
+  },
+  {
+    "id": 348,
+    "value": "MIRPUR SAKRO",
+    "label": "Mirpur Sakro",
+    "Province_code": "02",
+    "City Code": "0348"
+  },
+  {
+    "id": 349,
+    "value": "MITHANI",
+    "label": "Mithani",
+    "Province_code": "02",
+    "City Code": "0349"
+  },
+  {
+    "id": 350,
+    "value": "MITHI",
+    "label": "Mithi",
+    "Province_code": "02",
+    "City Code": "0350"
+  },
+  {
+    "id": 351,
+    "value": "MORO",
+    "label": "Moro",
+    "Province_code": "02",
+    "City Code": "0351"
+  },
+  {
+    "id": 352,
+    "value": "NAGAR PARKAR",
+    "label": "Nagar Parkar",
+    "Province_code": "02",
+    "City Code": "0352"
+  },
+  {
+    "id": 353,
+    "value": "NAOKOT",
+    "label": "Naokot",
+    "Province_code": "02",
+    "City Code": "0353"
+  },
+  {
+    "id": 354,
+    "value": "NAUDERO",
+    "label": "Naudero",
+    "Province_code": "02",
+    "City Code": "0354"
+  },
+  {
+    "id": 355,
+    "value": "NAUSHARA",
+    "label": "Naushara",
+    "Province_code": "02",
+    "City Code": "0355"
+  },
+  {
+    "id": 356,
+    "value": "NAUSHERO FEROZE",
+    "label": "Naushero Feroze",
+    "Province_code": "02",
+    "City Code": "0356"
+  },
+  {
+    "id": 357,
+    "value": "NAWABSHAH",
+    "label": "Nawabshah",
+    "Province_code": "02",
+    "City Code": "0357"
+  },
+  {
+    "id": 358,
+    "value": "NAZIMABAD",
+    "label": "Nazimabad",
+    "Province_code": "02",
+    "City Code": "0358"
+  },
+  {
+    "id": 359,
+    "value": "MOIN JO DARO",
+    "label": "Moin Jo Daro",
+    "Province_code": "02",
+    "City Code": "0359"
+  },
+  {
+    "id": 360,
+    "value": "PENDOO",
+    "label": "Pendoo",
+    "Province_code": "02",
+    "City Code": "0360"
+  },
+  {
+    "id": 361,
+    "value": "POKRAN",
+    "label": "Pokran",
+    "Province_code": "02",
+    "City Code": "0361"
+  },
+  {
+    "id": 362,
+    "value": "QAMBAR",
+    "label": "Qambar",
+    "Province_code": "02",
+    "City Code": "0362"
+  },
+  {
+    "id": 363,
+    "value": "QAZI AHMAD",
+    "label": "Qazi Ahmad",
+    "Province_code": "02",
+    "City Code": "0363"
+  },
+  {
+    "id": 364,
+    "value": "RANIPUR",
+    "label": "Ranipur",
+    "Province_code": "02",
+    "City Code": "0364"
+  },
+  {
+    "id": 365,
+    "value": "RATODERO",
+    "label": "Ratodero",
+    "Province_code": "02",
+    "City Code": "0365"
+  },
+  {
+    "id": 366,
+    "value": "ROHRI",
+    "label": "Rohri",
+    "Province_code": "02",
+    "City Code": "0366"
+  },
+  {
+    "id": 367,
+    "value": "SAIDU SHARIF",
+    "label": "Saidu Sharif",
+    "Province_code": "02",
+    "City Code": "0367"
+  },
+  {
+    "id": 368,
+    "value": "SAKRAND",
+    "label": "Sakrand",
+    "Province_code": "02",
+    "City Code": "0368"
+  },
+  {
+    "id": 369,
+    "value": "SANGHAR",
+    "label": "Sanghar",
+    "Province_code": "02",
+    "City Code": "0369"
+  },
+  {
+    "id": 370,
+    "value": "SHADADKHOT",
+    "label": "Shadadkhot",
+    "Province_code": "02",
+    "City Code": "0370"
+  },
+  {
+    "id": 371,
+    "value": "SHAHBANDAR",
+    "label": "Shahbandar",
+    "Province_code": "02",
+    "City Code": "0371"
+  },
+  {
+    "id": 372,
+    "value": "SHAHDADPUR",
+    "label": "Shahdadpur",
+    "Province_code": "02",
+    "City Code": "0372"
+  },
+  {
+    "id": 373,
+    "value": "SHAHPUR CHAKAR",
+    "label": "Shahpur Chakar",
+    "Province_code": "02",
+    "City Code": "0373"
+  },
+  {
+    "id": 374,
+    "value": "SHIKARPUR",
+    "label": "Shikarpur",
+    "Province_code": "02",
+    "City Code": "0374"
+  },
+  {
+    "id": 375,
+    "value": "SUJAWAL",
+    "label": "Sujawal",
+    "Province_code": "02",
+    "City Code": "0375"
+  },
+  {
+    "id": 376,
+    "value": "SUKKUR",
+    "label": "Sukkur",
+    "Province_code": "02",
+    "City Code": "0376"
+  },
+  {
+    "id": 377,
+    "value": "TANDO ADAM",
+    "label": "Tando Adam",
+    "Province_code": "02",
+    "City Code": "0377"
+  },
+  {
+    "id": 378,
+    "value": "TANDO ALAH YAR",
+    "label": "Tando Alah Yar",
+    "Province_code": "02",
+    "City Code": "0378"
+  },
+  {
+    "id": 379,
+    "value": "TANDO BAGO",
+    "label": "Tando Bago",
+    "Province_code": "02",
+    "City Code": "0379"
+  },
+  {
+    "id": 380,
+    "value": "TAR AHAMD RIND",
+    "label": "Tar Ahamd Rind",
+    "Province_code": "02",
+    "City Code": "0380"
+  },
+  {
+    "id": 381,
+    "value": "THARPARKAR",
+    "label": "Tharkarkar",
+    "Province_code": "02",
+    "City Code": "0381"
+  },
+  {
+    "id": 382,
+    "value": "THATTA",
+    "label": "Thatta",
+    "Province_code": "02",
+    "City Code": "0382"
+  },
+  {
+    "id": 383,
+    "value": "TUJAL",
+    "label": "Tujal",
+    "Province_code": "02",
+    "City Code": "0383"
+  },
+  {
+    "id": 384,
+    "value": "UMARKOT",
+    "label": "Umarkot",
+    "Province_code": "02",
+    "City Code": "0384"
+  },
+  {
+    "id": 385,
+    "value": "VEIRWARO",
+    "label": "Veirwaro",
+    "Province_code": "02",
+    "City Code": "0385"
+  },
+  {
+    "id": 386,
+    "value": "WARAH",
+    "label": "Warah",
+    "Province_code": "02",
+    "City Code": "0386"
+  },
+  {
+    "id": 387,
+    "value": "MIRPUR MATHELO",
+    "label": "Mirpur Mathelo",
+    "Province_code": "02",
+    "City Code": "0387"
+  },
+  {
+    "id": 388,
+    "value": "PANOAKIL",
+    "label": "Panoakil",
+    "Province_code": "02",
+    "City Code": "0388"
+  },
+  {
+    "id": 389,
+    "value": "NANKANA SAHIB",
+    "label": "Nankana Sahib",
+    "Province_code": "03",
+    "City Code": "0389"
+  },
+  {
+    "id": 390,
+    "value": "GOJRA",
+    "label": "Gojra",
+    "Province_code": "03",
+    "City Code": "0390"
+  },
+  {
+    "id": 391,
+    "value": "JARANWALA",
+    "label": "Jaranwala",
+    "Province_code": "03",
+    "City Code": "0391"
+  },
+  {
+    "id": 392,
+    "value": "CHUNIA",
+    "label": "Chunia",
+    "Province_code": "03",
+    "City Code": "0392"
+  },
+  {
+    "id": 393,
+    "value": "KANDHKOT",
+    "label": "Kandhkot",
+    "Province_code": "02",
+    "City Code": "0393"
+  },
+  {
+    "id": 394,
+    "value": "KHAIRPUR MIRIS",
+    "label": "Khairpur Miris",
+    "Province_code": "02",
+    "City Code": "0394"
+  },
+  {
+    "id": 395,
+    "value": "UBARO",
+    "label": "Ubaro",
+    "Province_code": "02",
+    "City Code": "0395"
+  },
+  {
+    "id": 396,
+    "value": "TANDO MUHAMMAD KHAN",
+    "label": "Tando Muhammad Khan",
+    "Province_code": "02",
+    "City Code": "0396"
+  },
+  {
+    "id": 397,
+    "value": "MATLI",
+    "label": "Matli",
+    "Province_code": "02",
+    "City Code": "0397"
+  },
+  {
+    "id": 398,
+    "value": "SUDHNOTI",
+    "label": "Sudhnoti",
+    "Province_code": "07",
+    "City Code": "0398"
+  },
+  {
+    "id": 399,
+    "value": "HASAN ABDAL",
+    "label": "Hasan Abdal",
+    "Province_code": "04",
+    "City Code": "0399"
+  },
+  {
+    "id": 400,
+    "value": "HUNZA",
+    "label": "Hunza",
+    "Province_code": "01",
+    "City Code": "0400"
+  },
+  {
+    "id": 401,
+    "value": "DADYAL",
+    "label": "Dadyal",
+    "Province_code": "07",
+    "City Code": "0402"
+  },
+  {
+    "id": 402,
+    "value": "NEELUM",
+    "label": "Neelum",
+    "Province_code": "07",
+    "City Code": "0403"
+  },
+  {
+    "id": 403,
+    "value": "HATTIAN BALA",
+    "label": "Hattian Bala",
+    "Province_code": "07",
+    "City Code": "0404"
+  },
+  {
+    "id": 404,
+    "value": "TANDLIANWALA",
+    "label": "tandlianwala",
+    "Province_code": "03",
+    "City Code": 401
+  }
+]

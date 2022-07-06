@@ -1,0 +1,86 @@
+.usp li {
+  color: #6b7280;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: 'Quicksand-light';
+  margin-top: 8px
+}
+
+.accordion-body {
+  padding: 0px !important;
+}
+
+.usp p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+
+
+  color: #272249;
+}
+
+.ModalForm.usp {
+  box-shadow: none !important;
+}
+
+.usp .paragraphs {
+  justify-content: center !important;
+  display: flex !important;
+  flex-direction: column;
+  text-align: center;
+}
+
+.usp .accordion-item {
+  border: none !important;
+}
+
+.usp .accordionBody {
+  border-radius: 8px;
+  text-align: left;
+
+}
+
+.usp .accordion-collapse {
+  border: none !important;
+
+  padding: 16px 19px !important;
+}
+
+.usp .acoordian {
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.usp .accordion-button {
+  border-radius: 8px !important;
+  height: 48px;
+  color: #6B7280 !important;
+}
+
+.usp .accordion-button:not(.collapsed) {
+  background: rgba(32, 111, 235, 0.1) !important;
+  color: #0c63e4 !important;
+  border: 0;
+}
+
+.usp .accordion-button:focus {
+  box-shadow: none !important;
+  /* background-color: #9fa6b2; */
+  border-color: rgba(0, 0, 0, .125);
+}
+
+.usp .accordion-button::after {
+  content: "+" !important;
+  transform: none !important;
+  font-size: 20px;
+  height: 1.50rem !important;
+  background-image: none !important
+}
+
+.usp .accordion-button:not(.collapsed)::after {
+  content: "—" !important;
+  transform: none !important;
+  font-size: 20px;
+  height: 1.50rem !important;
+  background-image: none !important
+}
