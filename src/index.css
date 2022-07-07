@@ -79,7 +79,6 @@ color:    #2CAD0C
 .tc-neg {
     color: #e9979f;
 }
-
 .bg-blue {
     background-color: #206feb;
 }
@@ -281,6 +280,10 @@ h5 {
     min-height: 100vh;
 }
 
+.formDiv{
+    margin: 20px 80px;
+}
+
 .bid_menu:hover{
 color: #F85149
 ;
@@ -477,12 +480,22 @@ h2 {
 .sukook {
     width: 40% !important;
 }
+.payment-input{
+    width: 30% !important;
+}
+.broder-bottom{
+    border-bottom: 1px solid #EEEEEE;
+
+}
 
 @media only screen and (max-width: 576px) {
+   
     .accountbtnMobile {
         display: block !important;
     }
-
+    .payment-input{
+        width: 100% !important;
+    }
     .accountbtn {
         display: none !important;
     }
@@ -877,11 +890,7 @@ label {
     color: white;
     border-radius: 7px;
 }
-.bid-radio{
-    border: 1px solid #206FEB;
 
-    border-radius: 7px;
-}
 .btn-outlined,
 .ant-modal-footer .ant-btn.ant-btn-default {
     border: 1px solid #206feb;
@@ -1469,4 +1478,8 @@ input[type="number"] {
 .ant-modal-footer {
     border: 0;
     margin-top: 24px;
+}
+.payment-input .ant-select-selector, .formDiv .form-control{
+    background: #F7F7F7 !important;
+    border: none !important;
 }
