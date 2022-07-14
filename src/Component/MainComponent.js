@@ -38,7 +38,7 @@ const MainComponent = () => {
                 {/* <Route path="/IPSForm" element={<IPSForm />} /> */}
                 <Route path="/IPSForm" element={<DirectLanding />} />
                 <Route path="/Bid" element={<BidHistory />} />
-                <Route path="/Payment" element={<Payment />} />
+                <Route path="/Payments" element={<Payment />} />
 
 
 

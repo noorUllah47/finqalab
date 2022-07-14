@@ -57,6 +57,7 @@ function DeleteModal() {
         visible={DeleteModal}
         onOk={handleCloseClick}
         onCancel={handleCloseClick}
+        centered
         footer={
           <>
             <div className="row">

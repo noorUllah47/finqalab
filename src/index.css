@@ -1019,7 +1019,17 @@ button:disabled {
     font-size: 16px;
     color: white;
 }
+.bid-radio{
+    border: 1px solid #206FEB;
+    border-radius: 7px;
+}
+.bid-radio :active{
+    background: rgba(32, 111, 235, 0.1);
 
+}
+.plusCirlce{
+color: #206FEB;
+}
 .custom-file-input.uploadFront::before {
     content: url(./Assets/Img/Upload.svg) "     Upload Front";
 }

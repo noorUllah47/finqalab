@@ -26,8 +26,8 @@ function BidHistory() {
           </div>
         </div>
         </div>
-{/* <BidTable/> */}
-<NewBid/>
+<BidTable />
+{/* <NewBid/> */}
 {/* <NewPayment/> */}
     </div>
   )

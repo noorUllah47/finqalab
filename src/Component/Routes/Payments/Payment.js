@@ -1,7 +1,7 @@
 import { PlusCircleFilled, PlusOutlined } from "@ant-design/icons";
 import { Breadcrumb, Checkbox, DatePicker, Select } from "antd";
 import moment from "moment";
-import React from "react";
+import React ,{useState}from "react";
 import NavigationBar from "../../Atoms/NavgationBar";
 import ToolTip from "../../Atoms/Tooltip";
 
@@ -10,6 +10,29 @@ function Payment() {
     console.log(date, dateString);
   };
   const { Option } = Select;
+
+  const [initialValues, setInitialValues] = useState([{
+    Sno:"",
+    instrument:"",
+    tenor:"",
+    faceValue:"",
+
+
+  }])
+   
+  function handleDrctChange(e,name){
+// console.log(e.target.value?e.target.value:e,name)
+  }
+function handleBidAdd(){
+  setInitialValues([...initialValues,{
+    Sno:"",
+    instrument:"",
+    tenor:"",
+    faceValue:"",
+  }])
+  console.log("========================initialvalues",initialValues)
+}
+console.log("beforeinitialvalues",initialValues)
 
   return (
     <div>
@@ -20,7 +43,7 @@ function Payment() {
 
           <Breadcrumb.Item>New Payment Request</Breadcrumb.Item>
         </Breadcrumb>
-        <div className="row ">
+        <div className="row mb-4 ">
           <div className="col-md-6 col-12 ">
             <h2 className="fw-700 fs32 mt-4">Auction Bidding Instruction</h2>
             <p className="tc-grey fw-500 fs30 mt-4 ">
@@ -29,20 +52,23 @@ function Payment() {
               to apply for purchase of the following.
             </p>
           </div>
-          <div className="col-md-6 col-12">
-            <div className="mt-5 d-flex justify-content-end">
+          {/* HR@EXCELORITHM */}
+          <div className="col-md-6 col-12 ">
+            <div className=" d-flex align-items-end justify-content-end">
               <p>00IPS-BS00213</p>
             </div>
           </div>
         </div>
         <div className=" px-5  bg-white p-3">
           <div className="row broder-bottom pb-4">
-            <div className=" col-12 col-md-4 ">
+            <div className=" col-12 col-md-6 ">
+              
               <label htmlFor="JointPWRYES" className=" col-form-label fw-500">
                 Choose your bid
                 <ToolTip title="Please input your name EXACTLY as it appears on your CNIC, SNIC, NICOP, POC, ARC or Passport" />
               </label>
-              <div className="d-flex">
+              <div className="row  ">
+                <div className="col-12 col-md-6">
                 <div class="form-check me-3  p-1 bid-radio">
                   <input
                     class="form-check-input mx-1  "
@@ -55,6 +81,9 @@ function Payment() {
                     Non-Competitive Bid
                   </label>
                 </div>
+                
+                </div>
+                <div className="col-12 col-md-6">
                 <div class="form-check me-3  p-1 bid-radio">
                   <input
                     class="form-check-input mx-1"
@@ -67,21 +96,27 @@ function Payment() {
                     Competitive Bid{" "}
                   </label>
                 </div>
+                </div>
+              </div>
+              <div className="">
+                
+                
               </div>
             </div>
-            <div className="col-md-8 ">
+            <div className="col-md-6 ">
               <div className=" d-flex flex-column mb-3 justify-content-end align-items-end">
-                <label htmlFor="BirthDay" className="col-form-label fw-500">
+                <label htmlFor="BirthDay" className="col-form-label fw-500 me-4">
                   Auction Date
                 </label>
-                <div className="mt-auto">
+                <div className="mt-auto me-4">
                   <DatePicker onChange={onChange} />
                 </div>
               </div>
             </div>
           </div>
           <div className="broder-bottom pb-4 pt-4">
-            <div className="row ">
+            {initialValues.map(data=>(<>
+              <div className="row ">
               <div
                 className="col-12 col-lg-1 col-sm-6 
              mb-3 d-flex flex-column"
@@ -89,13 +124,17 @@ function Payment() {
                 <label htmlFor="BirthCity" className="col-form-label fw-500">
                   S. NO
                 </label>
-                <input className="form-control  mt-auto" />
+                <input   className="form-control  mt-auto" />
               </div>
               <div className="col-12 col-sm-6   payment-input col-lg-3 mb-3 d-flex flex-column">
                 <label htmlFor="BirthCity" className="col-form-label fw-500">
                   Instruement
                 </label>
-                <Select>
+                <Select
+                name="instrument"
+                onChange={(e)=>handleDrctChange(e,"instrument")}
+                >
+
                   <Option key="Pib">PIB</Option>
                   <Option key="TBILL">TBILL</Option>
                 </Select>
@@ -104,9 +143,13 @@ function Payment() {
                 <label htmlFor="BirthCity" className="col-form-label fw-500">
                   Tenor
                 </label>
-                <Select className="payment-fields ">
-                  <Option key="Pib">3 Months</Option>
-                  <Option key="TBILL"> 4 Months</Option>
+                <Select
+                name="tenor"
+                onChange={(e)=>handleDrctChange(e,"tenor")}
+                
+                className="payment-fields ">
+                  <Option key="3 months">3 Months</Option>
+                  <Option key="4 months "> 4 Months</Option>
                 </Select>
               </div>
               <div className="col-12 col-sm-6 payment-input col-lg-4 mb-3 d-flex flex-column">
@@ -116,6 +159,7 @@ function Payment() {
                 <input
                   type="text"
                   name="faceValue"
+                  onChange={(e)=>handleDrctChange(e,"faceValue")}
                   className="form-control payment-fields mt-auto"
                   placeholder="Enter Value"
                   // value={values?.lastName}
@@ -126,9 +170,13 @@ function Payment() {
                 />
               </div>
             </div>
-            <PlusCircleFilled />
-            <a className="ms-2 ">Add Bid</a>
-          </div>
+            </>))}
+            <div className="d-flex align-items-baseline">
+            <PlusCircleFilled onClick={handleBidAdd} className="plusCirlce" />
+            <a onClick={handleBidAdd} className="ms-2 text-decoration-none ">Add Bid</a>
+          
+            </div>
+            </div>
           <div className="calculator broder-bottom pt-5 pb-5">
             <div className="row ">
               <div className="col-12 col-md-6 ">
@@ -240,7 +288,7 @@ function Payment() {
           </div>
         </div>
       </div>
-      <div className="mx-5 row justify-content-end pe-4 ">
+      <div className="mx-5 row justify-content-end pe-5 ">
         <div className=" col-4 ">
           <div className="d-flex ">
           <div className="ms-md-auto row p-0 max75ch">
@@ -251,7 +299,7 @@ function Payment() {
                             type="button"
                             // onClick={() => props.prevStep()}
                         >
-                            Submit
+                            Submit 
 
                         </button>
                     </div>
@@ -262,11 +310,9 @@ function Payment() {
                             // disabled={props.SaveLoading}
                             // onClick={() => props.handleSubmit('saveExist')}
                         >
-
                            Cancel
                         </button>
                     </div>
-                    
                     
                 </div>
           </div>
