@@ -22,9 +22,9 @@
 }
 
 #root {
-    background-color: #f4f5f7;
-    min-height: 100vh;
-    overflow-x: hidden;
+background-color: #f4f5f7;
+min-height: 100vh;
+overflow-x: hidden;
 
 }
 
@@ -258,6 +258,10 @@ h5 {
 
 .width75 {
     width: clamp(75px, 25%, 100px);
+}
+
+.max50ch {
+    max-width: 50ch !important;
 }
 
 .max75ch {
@@ -888,14 +892,14 @@ label {
     border: 0px;
     background-color: #206feb;
     color: white;
-    border-radius: 7px;
+    border-radius: 8px;
 }
 
 .btn-outlined,
 .ant-modal-footer .ant-btn.ant-btn-default {
     border: 1px solid #206feb;
-    border-radius: 7px;
-    background-color: transparent ;
+    border-radius: 8px;
+    background-color: transparent;
     color: #206feb;
 }
 
@@ -1492,4 +1496,96 @@ input[type="number"] {
 .payment-input .ant-select-selector, .formDiv .form-control{
     background: #F7F7F7 !important;
     border: none !important;
+}
+
+
+/* Bidding */
+
+.ant-breadcrumb li {
+    color: #6B7280;
+}
+
+.ant-breadcrumb li:last-child {
+    color: #206FEB;
+}
+
+.Bidding .MainAcc,
+.Bidding .list-group {
+    min-width: unset;
+    max-width: unset;
+}
+
+.Bidding .MainAcc .itemm.Selected {
+    background-color: rgba(32, 111, 235, 0.1)
+}
+
+.Bidding .MainAcc .itemm.Selected label {
+    color: #272249
+}
+
+.Bidding .ant-picker-input path {
+    color: #BBC2D0
+}
+
+.Bidding .ant-picker {
+    border: 1px solid #272249;
+}
+
+.Bidding .ant-picker input {
+    color: #272249;
+    font-weight: 600;
+}
+
+.Bidding .ant-picker input::placeholder {
+    color: #272249 !important;
+    font-weight: 600;
+}
+
+.form-control-bidding,
+.Bidding .ant-select-selector {
+    color: #6B7280 !important;
+    padding: 8px 10px !important;
+    background-color: #F7F7F7 !important;
+    border: 0 !important;
+}
+
+.Bidding .ant-select-selection-item,
+.Bidding .ant-select-selection-placeholder {
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+
+
+.Feild {
+    border: 1px solid #272249;
+}
+
+.Feild {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.Feild p {
+    display: inline-block;
+    padding: 8px 16px;
+
+    /* margin-left: auto; */
+}
+
+.Feild input {
+    /* width: 5rem; */
+    margin-left: auto;
+    padding: 8px 16px;
+    border: 0;
+    outline: none;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+.disabledFeild,
+.disabledFeild input {
+    color: #6B7280 !important;
+    background-color: #F7F7F7 !important;
 }

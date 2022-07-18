@@ -25,12 +25,13 @@ class Account {
   }
   SignUp = (data, setErr) => {
     const res = async () => {
-      // console.log('data oisss for signup >>>>>>>>>>', data)
+      console.log('phoneNum', data?.phoneNumber.slice(0, 2) == '03' ? '+92' + data?.phoneNumber?.substring(1) : data?.phoneNumber)
       const resp = await axios
         .post('https://ips-backend-staging.finqalab.com/v1/credentials/signup', {
-          email: data.email,
-          password: data.password,
-          displayName: data.name
+          email: data?.email,
+          password: data?.password,
+          displayName: data?.name,
+          phoneNumber: data?.phoneNumber.slice(0, 2) == '03' ? '+92' + data?.phoneNumber?.substring(1) : data?.phoneNumber
         })
         .catch(function (error) {
           // console.log('signup api response error is =========', error)

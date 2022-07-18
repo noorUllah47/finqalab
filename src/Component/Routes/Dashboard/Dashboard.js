@@ -86,8 +86,7 @@ const Dashboard = () => {
                                         <hr className="t-grey-200 my-2"></hr>
                                         <p className='t-grey-200 fs16 fw-600' >Correction Details:</p>
                                         {statusDetail.length > 0 && statusDetail.split("\n").map((l, i) => <p className="tc-grey fs16 fw-500 mt-3" key={i}>{l}</p>)}
-
-                                        <button className="mt-4 bg-blue text-white py-3 px-4 br-8 border-0" onClick={() => history('/IPSForm')}>
+                           <button className="mt-4 bg-blue text-white py-3 px-4 br-8 border-0" onClick={() => history('/IPSForm')}>
                                             Edit IPS Form
                                         </button>
                                         <NavLink
@@ -125,8 +124,8 @@ const Dashboard = () => {
                 <div className="row">
                     <div className="col-md-7 col-12">
                         <div className=" account_main p-0 bg-white br-8 mt-5">
-                            <p className="tc-plum fw-700 fs24 ps-4 pt-2">Calendar</p>
-                            <p className="tc-grey fs14 fw-600 ps-4" >Note: Bids will not be accepted  after 3PM on the day before the auction </p>
+                            <p className="tc-plum fw-700 fs24 ps-4 pt-4 mb-1" >Calendar</p>
+                            <p className="tc-grey fs14 fw-600 ps-4 " >Note: Bids will not be accepted  after 3PM on the day before the auction </p>
                             <BiddingTable />
                         </div>
                     </div>

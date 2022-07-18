@@ -446,6 +446,8 @@ const FileUploading = ({
                   Nextdisabled={false}
                   Loading={Loading}
                   handleSubmit={handleSubmit}
+                  
+                  SaveLoading={SaveLoading}
                 />
               </form>
             </div>

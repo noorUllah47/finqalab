@@ -2,7 +2,7 @@ const BottomNavigation = (props) => {
     return (
         <>
             <div className="mb-40 row mt-40 justify-content-center">
-                <div className="ms-md-auto row p-0 max75ch">
+                <div className="ms-md-auto row p-0 max50ch">
                     <div className=" col-6 col-sm my-2 order-3 order-sm-1" >
                         <button
                             className="btn-filled fs16 px-3 py-1 mx-1 navBtn w-100"

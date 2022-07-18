@@ -11,6 +11,7 @@ import IPSFormSubmitted from "./Routes/Form/FormSubmitted";
 import ForgotPassApplied from "./Routes/Account/ForgotPassword/ForgotPassApplied";
 import SuccessPasswordReset from "./Routes/Account/ForgotPassword/SuccessPasswordReset";
 import Dashboard from "./Routes/Dashboard/Dashboard";
+import PaymentBiddings from "./Routes/Biddings/Biddings";
 import Usp from "./Routes/Usp/Usp";
 import DirectLanding from "./Routes/Form/DirectLanding";
 import BidNav from "./Routes/Bid/BidNav";
@@ -38,12 +39,13 @@ const MainComponent = () => {
                 {/* <Route path="/IPSForm" element={<IPSForm />} /> */}
                 <Route path="/IPSForm" element={<DirectLanding />} />
                 <Route path="/Bid" element={<BidHistory />} />
-                <Route path="/Payments" element={<Payment />} />
+                {/* <Route path="/Payments" element={<Payment />} /> */}
 
 
 
                 <Route path="/FormSubmitted" element={<IPSFormSubmitted />} />
                 <Route path="/Dashboard" element={<Dashboard />} />
+                <Route path="/Biddings" element={<PaymentBiddings />} />
 
             </Route>
             <Route

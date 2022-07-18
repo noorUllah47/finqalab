@@ -18,6 +18,7 @@ const SignUp = () => {
         email: "",
         password: "",
         rePassword: "",
+        phoneNumber: "",
         path: '/SentEmail',
         sendingReq: false,
 
@@ -91,6 +92,14 @@ const SignUp = () => {
                                 placeholder="Email Address"
                                 required
                                 value={user.email}
+                                onChange={handleChange}
+                            />
+                            <input type="text"
+                                className="phoneNumber w-100 fs30 mt-3 py-2 px-3 lghtBdr"
+                                name="phoneNumber"
+                                placeholder="Phone Number"
+                                required
+                                value={user.phoneNumber}
                                 onChange={handleChange}
                             />
                             <input type="password"
