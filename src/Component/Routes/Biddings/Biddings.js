@@ -225,7 +225,22 @@ const PaymentBiddings = () => {
                             <p className="fs16 tc-grey fw-500 mb-3 text-end" >Auction Date</p>
                             <div className="text-end" >
 
-                                <DatePicker className="py-2 px-3 br-8" onChange={(e) => { setDate(e._d) }} />
+                                {/* <DatePicker className="py-2 px-3 br-8" onChange={(e) => { setDate(e._d) }} /> */}
+                                <Select
+                                className='w-75'
+                               placeholder="Select an auction date"
+                               
+                               >
+
+                                    
+                                            <Option key={1}>29 June, 2022</Option>
+                                            <Option key={2}>13 July, 2022</Option>
+                                            <Option key={3}>27 July, 2022</Option>
+                                            <Option key={4}>10 August, 2022</Option>
+
+                                      
+
+                                    </Select>
                             </div>
                         </div>
                     </div>

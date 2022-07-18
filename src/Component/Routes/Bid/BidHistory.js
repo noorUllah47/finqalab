@@ -26,7 +26,10 @@ function BidHistory() {
           </div>
         </div>
         </div>
+        <div className='mx-3' >
+
 <BidTable />
+        </div>
 {/* <NewBid/> */}
 {/* <NewPayment/> */}
     </div>

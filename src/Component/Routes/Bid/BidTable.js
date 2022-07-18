@@ -308,6 +308,7 @@
   <>
     
     <Table
+    className="mx-5 mb-3"
       columns={columns}
       dataSource={data}
       pagination={false}
