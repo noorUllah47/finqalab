@@ -18,6 +18,8 @@ import BidNav from "./Routes/Bid/BidNav";
 import BidHistory from "./Routes/Bid/BidHistory";
 import Payment from "./Routes/Payments/Payment";
 import NewBid from "./Routes/Bid/NewBid";
+import AllPayment from "./Routes/allPayment/allPayment";
+import SubLedger from "./Routes/SubLedger/SubLedger";
 
 
 
@@ -39,13 +41,15 @@ const MainComponent = () => {
                 {/* <Route path="/IPSForm" element={<IPSForm />} /> */}
                 <Route path="/IPSForm" element={<DirectLanding />} />
                 <Route path="/Bid" element={<BidHistory />} />
-                {/* <Route path="/Payments" element={<Payment />} /> */}
+                <Route path="/Payments" element={<AllPayment />} />
 
 
 
                 <Route path="/FormSubmitted" element={<IPSFormSubmitted />} />
                 <Route path="/Dashboard" element={<Dashboard />} />
                 <Route path="/Biddings" element={<PaymentBiddings />} />
+                <Route path="/Subledger" element={<SubLedger />} />
+
 
             </Route>
             <Route

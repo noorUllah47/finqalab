@@ -1589,3 +1589,7 @@ input[type="number"] {
     color: #6B7280 !important;
     background-color: #F7F7F7 !important;
 }
+.ant-dropdown-menu {
+    border-radius: 8px;
+    text-align: center !important;
+  }

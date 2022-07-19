@@ -220,7 +220,7 @@ const PaymentBiddings = () => {
                                 </form>
                             </div>
                         </div>
-                        <div className="col-3">
+                        <div className="col-3 col-xl-3 col-lg-4 ">
 
                             <p className="fs16 tc-grey fw-500 mb-3 text-end" >Auction Date</p>
                             <div className="text-end" >

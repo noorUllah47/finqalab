@@ -22,6 +22,7 @@ function BidHistory() {
           <div className="col-md-6 col-12">
             <div className="mt-5">
               <button className="btn-filled  navBtn "> New Bid</button>
+        
             </div>
           </div>
         </div>

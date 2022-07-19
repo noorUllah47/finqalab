@@ -300,7 +300,13 @@
       title:"",
       dataIndex:"",
       width:1,
-      render:()=><DeleteModal/>
+      render:()=><DeleteModal
+      step1="Details"
+      step2="Modify"
+      step3="Delete"
+      text="Are you sure you want to delete this auction bid?"
+      
+      />
     
     }
     ];

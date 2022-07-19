@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Dropdown, Menu, Modal, Space, Table } from "antd";
 import { useState } from "react";
 import vector from "../../../Assets/Img/Vector.png";
-function DeleteModal() {
+function DeleteModal({step1,step2,step3,text}) {
   const [DeleteModal, setDeleteModal] = useState(false);
   const handleCloseClick = () => {
     setDeleteModal(false);
@@ -14,14 +14,14 @@ function DeleteModal() {
     <Menu
       items={[
         {
-          label: <p className="me-3 fw-600 fs25 mb-1 pt-2 bid_menu">Detail</p>,
+          label: <p className="me-3 fw-600 fs25 mb-1 pt-2 bid_menu">{step1}</p>,
           key: "0",
         },
         {
           type: "divider",
         },
         {
-          label: <p className="me-3 fw-600  pt-2 mb-1 fs25 bid_menu">Modify</p>,
+          label: <p className="me-3 fw-600  pt-2 mb-1 fs25 bid_menu">{step2}</p>,
           key: "1",
         },
         {
@@ -31,9 +31,9 @@ function DeleteModal() {
           label: (
             <p
               onClick={showModal}
-              className="me-5 fw-600 fs25 pt-2 mb-1 bid_menu"
+              className="me-5 fw-600 fs25 pt-2 mb-1 ms-4 ps-1 bid_menu"
             >
-              Delete
+              {step3}
             </p>
           ),
           key: "3",
@@ -84,11 +84,9 @@ function DeleteModal() {
           </>
         }
       >
-        <h1 className="fs24 ls4 fw-800 t-grey-800 mb-3">Delete Bid</h1>
+        <h1 className="fs24 ls4 fw-800 t-grey-800 mb-3 text-center">{text}</h1>
 
         <p className="fw-500 fs16 ms-auto">
-          Are you sure you want to delete this auction bid. If yes, click on the
-          delete button below.
         </p>
       </Modal>
     </div>
